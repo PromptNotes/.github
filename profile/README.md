@@ -13,3 +13,5 @@ With PromptNotes, you can:
 - Collaborate with others in real-time.
 - Share prompts with friends, colleagues, or the world.
 - Customize the platform to fit your specific needs.
+
+![Prompts Library](profile/Prompts Library.png)
